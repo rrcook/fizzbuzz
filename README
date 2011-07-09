@@ -1,14 +1,19 @@
 # fizzbuzz
 
-FIXME: write description
+A clojure fizzbuzz that puts the "fun" in functional. I wouldn't write it
+this way for anything resembling production, it won't scale well much past
+the hundreds, and I imagine the performance is bad, but it does do some
+fun things like composing functions, using sets as predicate functions,
+and taking advantage of clojure's dynamicness by sending a string into a set
+full of numbers for a membership test.
 
 ## Usage
 
-FIXME: write
+It's used to get past the first part of interviews.
 
 ## Installation
 
-FIXME: write
+It's a Leiningen project. Just do 'lein swank' or whatever it is you use.
 
 ## License
 
