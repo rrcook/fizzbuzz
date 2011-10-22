@@ -17,6 +17,6 @@ It's a Leiningen project. Just do 'lein swank' or whatever it is you use.
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2011 Ralph Richard Cook
 
 Distributed under the Eclipse Public License, the same as Clojure.
